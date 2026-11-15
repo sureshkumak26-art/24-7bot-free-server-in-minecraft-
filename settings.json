@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "BLACKHOLE4330.aternos.me",
-    "port": 19132,
+    "port": 28769,
     "version": "1.21.10",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "SoloPlayz"
     },
     "anti-afk": {
